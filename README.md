@@ -1,4 +1,4 @@
-# Usdtoghs
+# US Dollar to Ghanaian Cedi
 
 - This is an android widget that shows the current currency conversion rate from USD to GHS.
 - The project uses https://www.currencyconverterapi.com/ for conversion and  https://github.com/ashkanpower/EasyWebservice for the rest requests  :-).
